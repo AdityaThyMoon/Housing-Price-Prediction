@@ -1,7 +1,6 @@
 # Housing Price Prediction
 <h2>In this project, I train a LightGBM regressor model to predict sale prices of houses in the US within *$50,000* (MAE).</h2>
 <h3>Results</h3>
-<img src = "https://i.imgur.com/6jROS2N.png"/><br>
 <img src = "https://i.imgur.com/G5eg8G5.png"/><br>
 
 <p>Training was based on 9 features: brokered_by (realtor ID), number of beds, number of baths, total acres of the property, city, state, zip code, house size, and days since the house was last sold.</p>
